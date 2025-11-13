@@ -3,8 +3,8 @@
 ## 🚀 About Me
 I'm a passionate Cloud & DevOps enthusiast with a strong foundation in software engineering. I love building scalable infrastructure, automating workflows, and creating efficient deployment pipelines.
 
-- 🔭 Currently working on: [Adding AWS integration with db onto dockerized container for full cloud integeration]
-- 🌱 Learning: [Docker, K8s, Jenkins, React]
+- 🔭 Currently: Learning AWS so that I can integrate my containerized Flask API for full cloud integeration.
+- 🌱 Learning: Docker, K8s, Jenkins, React
 - 💼 Open to: Cloud Engineering, DevOps, and Software Engineering roles
 - 📍 Based in: Belfast, UK
 - 📫 Reach me: rehanananth@gmail.com
