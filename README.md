@@ -44,7 +44,7 @@ Built and containerized a Flask REST API using Docker for consistent and reprodu
 - **Tech:** Python, Flask, Docker, Kubernetes
 - **Highlights:** Containerized microservice architecture; Kubernetes scaling & service configuration; planned AWS integration with database for full-stack cloud deployment
 
-### 🚀 [RelicBound – Adventure Game](https://github.com/han-re/RelicBound)
+### 🚀 [RelicBound – Adventure Game](https://github.com/han-re/RelicBound0)
 Led a 4-person team to create a full-stack, choice-based adventure game with persistent user sessions and progress tracking. Integrated authentication and real-time analytics for player statistics and success rates.
 - **Tech:** JavaScript, SQL, HTML, CSS, PHP
 - **Highlights:** Dynamic decision system; SQL-based user progress storage; real-time success metrics; leadership in full-stack collaboration
