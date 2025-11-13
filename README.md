@@ -1,4 +1,4 @@
-# Hi there, I'm [Rehan] 👋
+# Hi there, I'm Rehan 👋
 
 ## 🚀 About Me
 I'm a passionate Cloud & DevOps enthusiast with a strong foundation in software engineering. I love building scalable infrastructure, automating workflows, and creating efficient deployment pipelines.
@@ -6,8 +6,8 @@ I'm a passionate Cloud & DevOps enthusiast with a strong foundation in software 
 - 🔭 Currently working on: [Adding AWS integration with db onto dockerized container for full cloud integeration]
 - 🌱 Learning: [Docker, K8s, Jenkins, React]
 - 💼 Open to: Cloud Engineering, DevOps, and Software Engineering roles
-- 📍 Based in: [Belfast, UK]
-- 📫 Reach me: [rehanananth@gmail.com]
+- 📍 Based in: Belfast, UK
+- 📫 Reach me: rehanananth@gmail.com
 
 ## 🛠️ Tech Stack
 
@@ -39,12 +39,6 @@ Learning:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=han-re&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=han-re&layout=compact&theme=radical)
-
 ## 🔥 Featured Projects
 
 ### 🌐 [Dockerized Flask API with Kubernetes Deployment](https://github.com/han-re/kreptkontainer)
@@ -68,8 +62,7 @@ Created a 2D Pong game featuring an AI opponent using Pygame. Tracked gameplay m
 - **Highlights:** AI opponent implementation; data logging and visualization; integration of analytics into a classic arcade game
 
 ## 📜 Certifications
-- [Certification Name] - [Issuing Organization] (Year)
-- [Certification Name] - [Issuing Organization] (Year)
+- AWS Cloud Practitioner - AWS ~ Ongoing
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/rehan-ananth)
