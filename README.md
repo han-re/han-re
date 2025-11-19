@@ -4,7 +4,7 @@
 I'm a 2nd Year Computer Science student passionate about Cloud & DevOps with a strong foundation in software engineering. I love learning about building scalable infrastructure, automating workflows, and creating efficient deployment pipelines.
 
 - 🔭 Currently: Learning AWS so that I can integrate my containerized Flask API for full cloud integration.
-- 🌱 Learning: Docker, K8s, Jenkins, React
+- 🌱 Learning: AWS, Docker, K8s, Jenkins, React
 - 💼 Open to: Cloud Engineering, DevOps, and Software Engineering roles
 - 📍 Based in: Belfast, UK
 - 📫 Reach me: rehanananth@gmail.com
