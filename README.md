@@ -40,7 +40,7 @@ I'm a 2nd Year Computer Science student at Queen's University Belfast, passionat
 
 ## 🔥 Featured Projects
 
-### 🍳 Kitchen Copilot — Gemini Live Agent Hackathon
+### 🍳 [Kitchen Copilot — Gemini Live Agent Hackathon](https://github.com/msintangible/kitchen-copilot)
 Infrastructure lead on a real-time, hands-free cooking assistant built for the Gemini Live Agent Challenge. Provisioned GCP infrastructure including Cloud Run, Firestore, IAM, and Secret Manager. Set up CI/CD via Cloud Build and managed submission assets.
 - **Tech:** GCP (Cloud Run, Firestore, Secret Manager, Cloud Build), FastAPI, React, Vite, Gemini Live API
 - **Highlights:** End-to-end GCP provisioning and IAM configuration; automated CI/CD pipeline; real-time voice-driven interaction via Gemini Live API
